@@ -1,6 +1,5 @@
 # FUCoin Transactions with GUI
-
-* Important: Download akka Framework and use it as library
+## Important: Download akka Framework and use it as library
 
 We want to implement a Bitcoin variant: FUcoin - a decentralized payment system! Research
 all information you can get about the inner workings of Bitcoin. Only stop if it is clear to
