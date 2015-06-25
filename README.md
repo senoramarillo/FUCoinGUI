@@ -1,6 +1,16 @@
 # FUCoin Transactions with GUI
 ## Important: Download akka Framework and use it as library
 
+## Git-Befehle (Terminal)
+
+* git clone <url>
+* git checkout -b <unser branch-name>
+//.gitignore erstellen und adden
+// Projekt kopieren
+* git add —all
+* git commit -m „…“
+* git push origin <branch-name>
+
 We want to implement a Bitcoin variant: FUcoin - a decentralized payment system! Research
 all information you can get about the inner workings of Bitcoin. Only stop if it is clear to
 you how it could be implemented.
